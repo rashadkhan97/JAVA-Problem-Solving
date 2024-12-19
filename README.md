@@ -37,7 +37,7 @@ All solutions are implemented programmatically without built-in shortcuts (e.g.,
 
 - clone this project
    ```console
-      https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report.git
+      https://github.com/rashadkhan97/JAVA-Problem-Solving.git
     ``` 
 
 #### Open in an IDE:  
@@ -49,5 +49,5 @@ All solutions are implemented programmatically without built-in shortcuts (e.g.,
 #### Run the Assignments:  
 1. Each assignment is saved as a separate `.java` file.  
 2. Navigate to the file you want to test.  
-3. Click the **Run** button in your IDE to execute the program.  
+3. To execute the program, Click the **Run** button in your IDE.  
 
