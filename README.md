@@ -9,14 +9,15 @@ The tasks are thoughtfully designed to challenge beginner and intermediate-level
 Before running the assignments, ensure the following tools are installed on your system:
 
 - **Java Development Kit (JDK)**  
-  - Version 8 or higher. For my case i have used JDK 17
+  - Version 8 or higher. For my case, I have used** JDK 17**
   - [Download JDK from Oracle's Official Website](https://www.oracle.com/java/technologies/javase-downloads.html).  
 
 - **Java IDE**  
   - Any Java Integrated Development Environment (IDE), such as:  
-    - [IntelliJ IDEA](https://www.jetbrains.com/idea/)  
-    - [Eclipse](https://www.eclipse.org/downloads/)  
-    - [NetBeans](https://netbeans.apache.org/)  
+    - [**IntelliJ IDEA**](https://www.jetbrains.com/idea/)  
+    - [**Eclipse**](https://www.eclipse.org/downloads/)  
+    - [**NetBeans**](https://netbeans.apache.org/)
+    - [**Visual Studio code**](https://code.visualstudio.com/download)
 
 ## Problem Sovling Highlights 
 
