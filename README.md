@@ -49,5 +49,11 @@ All solutions are implemented programmatically without built-in shortcuts (e.g.,
 #### Run the Assignments:  
 1. Each assignment is saved as a separate `.java` file.  
 2. Navigate to the file you want to test.  
-3. To execute the program, Click the **Run** button in your IDE.  
+3. To execute the program, Click the **Run** button in your IDE.
+
+
+## Report File  
+For a detailed understanding of the questions, code, and output, refer to the report file linked below:  
+
+[View the Report File](#https://docs.google.com/document/d/1osl41Oll2yCEpo-K0dHeNj4TlBulXqjT8PdJcOs3tgs/edit?usp=sharing)  
 
