@@ -18,3 +18,18 @@ Before running the assignments, ensure the following tools are installed on your
     - [Eclipse](https://www.eclipse.org/downloads/)  
     - [NetBeans](https://netbeans.apache.org/)  
 
+## Problem Sovling Highlights 
+
+This project features solutions to various Java programming assignments, covering a wide range of topics:  
+
+- **Search and Sorting Algorithms**: Identify the 2nd highest CGPA, implement binary search, and perform manual sorting.  
+- **Random Number Operations**: Generate random numbers and determine minimum/maximum values.  
+- **Pattern Printing**: Programmatically create complex output patterns.  
+- **String Manipulations**: Count words, characters, vowels, and consonants; remove vowels from strings.  
+- **Custom Algorithms**: Break down currency notes, validate IP addresses, and verify binary strings.  
+- **HTML Parsing**: Extract transaction IDs using string operations.  
+- **Password Generation**: Generate secure passwords following custom rules.  
+- **Mathematical Operations**: Solve logical problems such as distributing question marks and calculating discounts.  
+
+All solutions are implemented programmatically without built-in shortcuts (e.g., `Arrays.sort()`), fostering a deeper understanding of core algorithms and problem-solving techniques.  
+
