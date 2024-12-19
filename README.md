@@ -1,3 +1,15 @@
+## **Content**
+- [Introduction](#introduction)
+- [Prerequisites](#Prerequisites)
+    - [Java Development Kit (JDK)](#java-Development-Kit-(JDK))
+    - [Java IDE](#Java-IDE)
+- [Problem-Solving Highlights](#Problem-Solving-Highlights)
+- [How to run the project](#How-to-run-the-project)
+    - [Open in an IDE](#Open-in-an-IDE)
+    - [Run the Assignments](#Run-the-Assignments)
+  - [Report File](#Report-File)
+
+
 ## Introduction
 
 This project is a compilation of Java assignments aimed at practicing and improving problem-solving, algorithm design, and foundational programming skills. Each assignment highlights a specific area of programming, including searching, sorting, string manipulation, and logical operations, offering practical experience with Java fundamentals.
@@ -19,7 +31,7 @@ Before running the assignments, ensure the following tools are installed on your
     - [**NetBeans**](https://netbeans.apache.org/)
     - [**Visual Studio code**](https://code.visualstudio.com/download)
 
-## Problem Sovling Highlights 
+## Problem Solving Highlights 
 
 This project features solutions to various Java programming assignments, covering a wide range of topics:  
 
