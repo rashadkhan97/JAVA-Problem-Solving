@@ -9,7 +9,7 @@ The tasks are thoughtfully designed to challenge beginner and intermediate-level
 Before running the assignments, ensure the following tools are installed on your system:
 
 - **Java Development Kit (JDK)**  
-  - Version 8 or higher.  
+  - Version 8 or higher. For my case i have used JDK 17
   - [Download JDK from Oracle's Official Website](https://www.oracle.com/java/technologies/javase-downloads.html).  
 
 - **Java IDE**  
