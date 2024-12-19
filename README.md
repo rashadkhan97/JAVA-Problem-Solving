@@ -53,8 +53,6 @@ All solutions are implemented programmatically without built-in shortcuts (e.g.,
 
 
 ## Report File  
-For a detailed understanding of the questions, code, and output, refer to the report file linked below:  
-
-[```**Click the Link to View File Report**```](https://docs.google.com/document/d/1osl41Oll2yCEpo-K0dHeNj4TlBulXqjT8PdJcOs3tgs/edit?usp=sharing)  
+For a detailed understanding of the questions, code, and output, refer to the report file linked below: [```**Click the Link to View File Report**```](https://docs.google.com/document/d/1osl41Oll2yCEpo-K0dHeNj4TlBulXqjT8PdJcOs3tgs/edit?usp=sharing)  
 
 
