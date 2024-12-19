@@ -35,7 +35,7 @@ All solutions are implemented programmatically without built-in shortcuts (e.g.,
 
 ## How to run the project
 
-#### clone this project
+- clone this project
    ```console
       https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report.git
     ``` 
