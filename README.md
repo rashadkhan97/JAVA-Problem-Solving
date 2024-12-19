@@ -33,3 +33,21 @@ This project features solutions to various Java programming assignments, coverin
 
 All solutions are implemented programmatically without built-in shortcuts (e.g., `Arrays.sort()`), fostering a deeper understanding of core algorithms and problem-solving techniques.  
 
+## How to run the project
+
+#### clone this project
+   ```console
+      https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report.git
+    ``` 
+
+#### Open in an IDE:  
+1. Open the project folder in any Java IDE, such as:  
+   - [IntelliJ IDEA](https://www.jetbrains.com/idea/)  
+   - [Eclipse](https://www.eclipse.org/downloads/)  
+   - [NetBeans](https://netbeans.apache.org/)  
+
+#### Run the Assignments:  
+1. Each assignment is saved as a separate `.java` file.  
+2. Navigate to the file you want to test.  
+3. Click the **Run** button in your IDE to execute the program.  
+
